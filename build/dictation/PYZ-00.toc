@@ -4150,6 +4150,7 @@
   ('src.streaming', 'E:\\XgenF1\\src\\streaming.py', 'PYMODULE'),
   ('src.transcribe', 'E:\\XgenF1\\src\\transcribe.py', 'PYMODULE'),
   ('src.ui', 'E:\\XgenF1\\src\\ui\\__init__.py', 'PYMODULE'),
+  ('src.ui.overlay', 'E:\\XgenF1\\src\\ui\\overlay.py', 'PYMODULE'),
   ('src.ui.settings_dialog',
    'E:\\XgenF1\\src\\ui\\settings_dialog.py',
    'PYMODULE'),
